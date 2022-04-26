@@ -191,7 +191,53 @@
       <PublishedFileId>2069022926</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Zardos Connector Passageway &amp; More">
+      <Name>2783691448.sbm</Name>
+      <PublishedFileId>2783691448</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Nanobot Build and Repair System">
+      <Name>857053359.sbm</Name>
+      <PublishedFileId>857053359</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Colorful Icons">
+      <Name>801185519.sbm</Name>
+      <PublishedFileId>801185519</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Automatic Ore Pickup">
+      <Name>657749341.sbm</Name>
+      <PublishedFileId>657749341</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HUD Compass">
+      <Name>1469072169.sbm</Name>
+      <PublishedFileId>1469072169</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HUD Colors">
+      <Name>889485290.sbm</Name>
+      <PublishedFileId>889485290</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Ore Detector ++">
+      <Name>2448691659.sbm</Name>
+      <PublishedFileId>2448691659</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Gravel Sifter">
+      <Name>2144596603.sbm</Name>
+      <PublishedFileId>2144596603</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>test</SessionName>
-  <LastSaveTime>2022-04-26T12:49:36.2184652+00:00</LastSaveTime>
+  <LastSaveTime>2022-04-26T14:56:17.0021102+00:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
