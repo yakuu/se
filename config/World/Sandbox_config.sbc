@@ -134,21 +134,22 @@
     <EnableGamepadAimAssist>false</EnableGamepadAimAssist>
     <BackpackDespawnTimer>5</BackpackDespawnTimer>
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
+    <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="(DX11) Kolt - Command Console Pack">
-      <Name>436025957.sbm</Name>
-      <PublishedFileId>436025957</PublishedFileId>
+    <ModItem FriendlyName="Ore Detector ++">
+      <Name>2448691659.sbm</Name>
+      <PublishedFileId>2448691659</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Cargo Container with Fill Level Bars">
-      <Name>677790017.sbm</Name>
-      <PublishedFileId>677790017</PublishedFileId>
+    <ModItem FriendlyName="Isy's Inventory Manager">
+      <Name>1216126863.sbm</Name>
+      <PublishedFileId>1216126863</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Hangar Door (corner)">
-      <Name>1137324517.sbm</Name>
-      <PublishedFileId>1137324517</PublishedFileId>
+    <ModItem FriendlyName="Hangar Gates (DX 11)">
+      <Name>438226588.sbm</Name>
+      <PublishedFileId>438226588</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="VCZ Multifloor Elevator">
@@ -156,44 +157,34 @@
       <PublishedFileId>1154898843</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Rotary Airlock">
-      <Name>1359954841.sbm</Name>
-      <PublishedFileId>1359954841</PublishedFileId>
+    <ModItem FriendlyName="Small_Hangar_Door_IR">
+      <Name>1609798433.sbm</Name>
+      <PublishedFileId>1609798433</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Hangar Doors">
-      <Name>1463614374.sbm</Name>
-      <PublishedFileId>1463614374</PublishedFileId>
+    <ModItem FriendlyName="Cargo Container with Fill Level Bars">
+      <Name>677790017.sbm</Name>
+      <PublishedFileId>677790017</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Build Vision 3.0">
-      <Name>1697184408.sbm</Name>
-      <PublishedFileId>1697184408</PublishedFileId>
+    <ModItem FriendlyName="More Wind Turbines (Update)">
+      <Name>1728125712.sbm</Name>
+      <PublishedFileId>1728125712</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="CraftableConsumables">
-      <Name>1848968584.sbm</Name>
-      <PublishedFileId>1848968584</PublishedFileId>
+    <ModItem FriendlyName="SmartRotors: Solar">
+      <Name>1728457223.sbm</Name>
+      <PublishedFileId>1728457223</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Rich HUD Master">
-      <Name>1965654081.sbm</Name>
-      <PublishedFileId>1965654081</PublishedFileId>
+    <ModItem FriendlyName="Large Armor Gates [WIP] (DX11)">
+      <Name>415051704.sbm</Name>
+      <PublishedFileId>415051704</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Safe Zones - 24H Zone Chips">
-      <Name>1994226141.sbm</Name>
-      <PublishedFileId>1994226141</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Coursive : Corridors Tunnels and Rooms (DX11)">
-      <Name>2069022926.sbm</Name>
-      <PublishedFileId>2069022926</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Zardos Connector Passageway &amp; More">
-      <Name>2783691448.sbm</Name>
-      <PublishedFileId>2783691448</PublishedFileId>
+    <ModItem FriendlyName="BuildInfo (extra block+terminal info, air leak finder)">
+      <Name>514062285.sbm</Name>
+      <PublishedFileId>514062285</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Nanobot Build and Repair System">
@@ -221,11 +212,6 @@
       <PublishedFileId>889485290</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Ore Detector ++">
-      <Name>2448691659.sbm</Name>
-      <PublishedFileId>2448691659</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Gravel Sifter">
       <Name>2144596603.sbm</Name>
       <PublishedFileId>2144596603</PublishedFileId>
@@ -239,5 +225,5 @@
     </ModItem>
   </Mods>
   <SessionName>test</SessionName>
-  <LastSaveTime>2022-04-26T14:56:17.0021102+00:00</LastSaveTime>
+  <LastSaveTime>2022-05-05T10:19:41.3812346+00:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
